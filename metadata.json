@@ -1,0 +1,6 @@
+{
+  "name": "Nearby Service & Payment Portal",
+  "description": "Fast nearby service booking with GPS geolocation, instant UPI QR payment, and WhatsApp order submission.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
